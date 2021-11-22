@@ -1,11 +1,11 @@
 ---
 title: "Nodejs应用——dashjs的环境配置和相关问题解决"
-subtitle: "怎么写个引言呢"
-date: 2021-11-22T14:28:26+08:00
+subtitle: ""
+date: 2021-11-22T23:12:48+08:00
 draft: false
 
-tags: []
-categories: []
+tags: [前端, 配环境, nodejs]
+categories: [dash.js]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -15,7 +15,6 @@ featuredImagePreview: ""
 
 license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 ---
-
 
 
 ## 一、在服务器上安装nodejs
@@ -114,8 +113,11 @@ export NODE_OPTIONS="--max-old-space-size=512"
 
 后续todo：dashjs上的内存泄漏都在哪里——nodejs的内存泄漏调试办法
 
+------
+
 
 
 > 后记：我后来在树莓派4B上试了试整个环境的配置，全程丝滑顺利，让我怀疑方向是否错了？
 
 <img src="https://gitee.com/tanneho/pic/raw/master/img/202111211818982.png" style="zoom: 80%;" />
+
