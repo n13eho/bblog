@@ -4,6 +4,8 @@ subtitle: ""
 date: {{ .Date }}
 draft: false
 
+summary: "summary"
+
 tags: []
 categories: []
 

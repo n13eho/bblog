@@ -1,7 +1,7 @@
 ---
-title: "dash.js如何调用某一具体ABRRule"
+title: "dash.js如何调用某一具体ABRRule（未完）"
 subtitle: ""
-date: 2021-11-26T21:21:48+08:00
+date: 2021-11-27T09:34:32+08:00
 draft: false
 
 summary: "当点击Load之后..."
@@ -17,6 +17,10 @@ featuredImagePreview: ""
 
 license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 ---
+
+
+
+
 
 ## 一、定位：load按钮之后的逻辑
 
