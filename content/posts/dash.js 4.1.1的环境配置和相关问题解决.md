@@ -1,5 +1,5 @@
 ---
-title: "Nodejs应用——dashjs的环境配置和相关问题解决"
+title: "dash.js 4.1.1的环境配置和相关问题解决"
 subtitle: ""
 date: 2021-11-22T23:12:48+08:00
 draft: false
