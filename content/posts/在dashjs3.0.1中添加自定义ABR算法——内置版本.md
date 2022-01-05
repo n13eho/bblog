@@ -6,7 +6,7 @@ draft: false
 
 summary: "是实现ABR自由的另外一种方式"
 
-tags: []
+tags: [前端, 学习框架]
 categories: [dash.js]
 
 hiddenFromHomePage: false

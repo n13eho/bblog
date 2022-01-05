@@ -5,7 +5,7 @@ date: 2021-11-21T21:34:00+08:00
 draft: false
 
 tags: []
-categories: []
+categories: [随想]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
