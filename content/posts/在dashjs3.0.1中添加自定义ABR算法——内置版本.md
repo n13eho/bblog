@@ -1,5 +1,5 @@
 ---
-title: "在dash.js 3.0.1中添加自定义ABR算法——内置版本"
+title: "在dash.js 3.0.1中添加自定义ABR算法——内置版本（未完）"
 subtitle: ""
 date: 2021-12-18T22:28:14+08:00
 draft: false
